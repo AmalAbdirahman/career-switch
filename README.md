@@ -107,7 +107,10 @@ The app uses predefined data, so no API keys or backend setup are needed.
 
 ## Pitch deck
 
-Our presentation is in [`docs/`](docs/). Open `docs/index.html` in a browser and use the arrow keys to move between slides. *(If GitHub Pages is enabled, it is also available at: [link].)*
+https://amalabdirahman.github.io/career-switch/
+
+Our presentation is also available in [`docs/`](docs/). Open `docs/index.html` in a browser and use the arrow keys to move between slides.
+
 
 ## Business model
 
@@ -135,16 +138,13 @@ CareerSwitch has two revenue streams: memberships that fund us from launch, and 
 
 | Name | GitHub | LinkedIn |
 | --- | --- | --- |
-| Amal | [@username](https://github.com/AmalAbdirahman) | [Profile](https://www.linkedin.com/) |
+| Amal | [@AmalAbdirahman](https://github.com/AmalAbdirahman) | [Profile](https://www.linkedin.com/) |
 | Mariyah | [@username](https://github.com/) | [Profile](https://www.linkedin.com/) |
-| Toobah | [@username](https://github.com/tooba543) | [Profile](https://www.linkedin.com/) |
+| Toobah | [@tooba543](https://github.com/tooba543) | [Profile](https://www.linkedin.com/) |
 
 ## Acknowledgements
 
 Thank you to **HuddleHive** and the **Engine by Starling** team for hosting and sponsoring the hackathon, and to the organisers and mentors for their feedback and support.
 
-## Licence
-
-[Add a licence, for example MIT, or remove this section.]
 
 <p align="center"><em>Small steps every day, one new career. 🌱</em></p>
